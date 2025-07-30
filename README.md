@@ -28,7 +28,7 @@ This project provides a practical benchmark comparing the performance of **Seque
 
 1.  **Clone the repository:**
     ```bash
-    git clone ParallelPro
+    git clone https://github.com/haelahpx/ParallelProcessingBenchmark.git
     cd ParallelProcessingBenchmark
     ```
 
